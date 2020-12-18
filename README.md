@@ -56,6 +56,16 @@ I can't really outline that as it depends on my motivation and life. I am hoping
 - Cost
   - The goal is to be free to play due to the need of players this game will require but this will change as the operation costs are known.
  
+## Concept Art & Inspiration:
+
+![Concept 1](https://cdn.discordapp.com/attachments/627660915646398468/781212653489618984/concept20frm.png)
+
+![Concept 2](https://media.discordapp.net/attachments/627660915646398468/781213008810213396/RIMWORLD_MEDEVAL.png?width=845&height=676)
+
+![Concept 3](https://media.discordapp.net/attachments/627660915646398468/781213061598937098/Bannerlord2.jpg?width=1131&height=676)
+
+![Concept 4](https://cdn.discordapp.com/attachments/627660915646398468/781252501008810014/clash_game.jpg)
+
 ## Technology
 
 This is evolving but as of December 17, this is what is planned:
@@ -64,3 +74,4 @@ This is evolving but as of December 17, this is what is planned:
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
 - [Three.JS](https://threejs.org/)
 - [Supabase](https://supabase.io/)
+- [NodeJS](https://nodejs.org/en/)
