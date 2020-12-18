@@ -15,11 +15,11 @@ PVE is another pillar to Saturns Gift. Items will naturally lose durabilty as yo
 
 ## Combat
 
-Since Saturns Gift will be turn-based, combat will depend on character stats, weapon countering, item usage, positioning and a bit of RNG. Combat will be a big game of chess. An example is a calvery will have an advantage over a sword & shield player but a spearman will have advantage over a calvery. To win a siege against another kingdom you will need to bring a diverse set of characters. Guild officers should have special abilities such as pinging the world and telling thier guild mates where to go as if they were playing an RPG.
+Since Saturns Gift will be turn-based, combat will depend on character stats, weapon countering, item usage, positioning and a bit of RNG. Combat will be a big game of chess. An example is a calvery will have an advantage over a sword & shield player but a spearman will have advantage over a calvery. To win a siege against another kingdom you will need to bring a diverse set of characters. Guild officers should have special abilities such as pinging the world and telling thier guild mates where to go as if they were playing an RTS.
 
 ## Linage
 
-Each player will be able to have three characters that they can control for every turn. One character for combat and two characters for PVE. The combat character can also do PVE. The main point of multiple characters is to fill up the time seconds between turns and to make the game feel more engaging given its turn-based nature.
+Each player will be able to have three characters that they can control for every turn. One character for combat and two characters for PVE. The combat character can also do PVE. The main point of multiple characters is to fill up the time between turns and to make the game feel more engaging given its turn-based nature.
 
 ## Land Claims
 
