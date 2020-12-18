@@ -35,11 +35,11 @@ The game should feel like playing a persistent game of Civilization meets Rimwor
 
 ## Art Style
 
-To be determned.
+The art style should be something that will age well but not overly complicated due to the perspective being topdown. The art style has to be something that catches people attention.
 
 ## Timeline
 
-I can't really outline that as it depends on my motivation and life. I am hoping to get a prototype out towards the end of 2021. If I come into any monetary resources, I will be funneling some of it into Saturns Gift and hopefully wth some luck, some people join the vision and help me build this game. It will open source and MIT license so people can fork and use the foundation for another game of thier own. I just want this game to be made.
+I can't really outline that as it depends on my motivation and life. I am trying to get a prototype out towards the end of 2021. If I come into any monetary resources, I will be funneling some of it into Saturns Gift and hopefully wth some luck, some people join the vision and help me build this game. It will open source and MIT license so people can fork and use the foundation for another game of thier own. I just want this game to be made.
 
 ## Q&A
 
@@ -53,7 +53,7 @@ I can't really outline that as it depends on my motivation and life. I am hoping
   - I want this game for myself and since I am a single developer with a career, I hope to build a community of contributors. I also want to hopefully build a base for other creators to use to build ontop of.
 - What happens to my claim if a guild is defeated?
   - Personal claims are not destroyed in seiges and are saved to your account. You will have the option to stay with the new guild or go find a new guild. The choice is yours. 
-- Cost
+- Cost?
   - The goal is to be free to play due to the need of players this game will require but this will change as the operation costs are known.
  
 ## Concept Art & Inspiration:
