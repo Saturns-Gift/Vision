@@ -11,7 +11,7 @@ PVP is a core pillar to Saturns Gift. The systems of the game should reinforce t
 
 ## PVE
 
-PVE is another pillar to Saturns Gift. Items will naturally lose durabilty as you partipate in PVP and also be dropped when killed for people to steal. Every item in the game will be crafted and require resources to create or cook. Animals need to be tended to and crops need to be harvested. There will lots to do! Each character has a skill tree that can be levels similiar to Runescape where you can max all of the professions in the game. There will be taming in the game as well to tame wild cows, horses, goats and chicken.
+PVE is another pillar to Saturns Gift. Items will naturally lose durabilty as you partipate in PVP and also be dropped when killed for people to steal. Every item in the game will be crafted and require resources to create or cook. Animals need to be tended to and crops need to be harvested. There will lots to do! Each character has a skill tree that can be leveled similiar to Runescape where you can max all of the professions in the game. There will be taming in the game as well to tame wild cows, horses, goats and chicken.
 
 ## Combat
 
@@ -53,6 +53,8 @@ I can't really outline that as it depends on my motivation and life. I am hoping
   - I want this game for myself and since I am a single developer with a career, I hope to build a community of contributors. I also want to hopefully build a base for other creators to use to build ontop of.
 - What happens to my claim if a guild is defeated?
   - Personal claims are not destroyed in seiges and are saved to your account. You will have the option too stay with the new guild or go find a new guild. The choice is yours. 
+- Cost
+  - The goal is to be free to play due to the natural requirement of this game but this will change as the operation costs are known
  
 ## Technology
 
