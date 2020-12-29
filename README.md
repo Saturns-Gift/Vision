@@ -66,12 +66,4 @@ I can't really outline that as it depends on my motivation and life. I am trying
 
 ![Concept 4](https://cdn.discordapp.com/attachments/627660915646398468/781252501008810014/clash_game.jpg)
 
-## Technology
-
-This is evolving but as of December 17, this is what is planned:
-
-- [React](https://reactjs.org/)
-- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
-- [Three.JS](https://threejs.org/)
-- [Supabase](https://supabase.io/)
-- [NodeJS](https://nodejs.org/en/)
+I hope you enjoy my vision and want to contribute! Please feel free to ask question in the issues.
