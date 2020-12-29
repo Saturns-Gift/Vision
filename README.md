@@ -1,6 +1,6 @@
 # Vision
 
-Saturns Gift will be a harcore medival top-down turn-based full-loot PVP & economy game where players can join together and compete to control territory. Each player will claim land for thier personal linage and master thier crafts to contrbute to the economy of the world.
+Saturns Gift will be a hardcore medieval top-down turn-based full-loot PVP & economy game where players can join together and compete to control territory. Each player will claim land for thier personal linage and master thier crafts to contrbute to the economy of the world.
 
 ## Discord:
 https://discord.gg/HN2r7wA
