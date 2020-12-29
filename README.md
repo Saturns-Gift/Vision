@@ -52,7 +52,7 @@ I can't really outline that as it depends on my motivation and life. I am trying
 - Why opensource?
   - I want this game for myself and since I am a single developer with a career, I hope to build a community of contributors. I also want to hopefully build a base for other creators to use to build ontop of.
 - What happens to my claim if a guild is defeated?
-  - Personal claims are not destroyed in seiges and are saved to your account. You will have the option to stay with the new guild or go find a new guild. The choice is yours. 
+  - Personal claims are not destroyed in seiges. You will have the option to stay with the new guild or go find a new guild. The choice is yours. 
 - Cost?
   - The goal is to be free to play due to the need of players this game will require but this will change as the operation costs are known.
  
