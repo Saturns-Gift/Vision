@@ -39,7 +39,7 @@ The art style should be something that will age well but not overly complicated 
 
 ## Timeline
 
-I can't really outline that as it depends on my motivation and life. I am trying to get a prototype out towards the end of 2021. If I come into any monetary resources, I will be funneling some of it into Saturns Gift and hopefully wth some luck, some people join the vision and help me build this game. It will open source and MIT license so people can fork and use the foundation for another game of thier own. I just want this game to be made.
+I can't really outline that as it depends on my motivation and life. I am trying to get a prototype out towards the end of 2021. If I come into any monetary resources, I will be funneling some of it into Saturns Gift and hopefully wth some luck, some people join the vision and help me build this game. It will be open source and MIT license so people can fork and use the foundation for another game of thier own. I just want this game to be made.
 
 ## Q&A
 
