@@ -1,21 +1,21 @@
 # Vision
 
-Saturns Gift will be a hardcore medieval top-down turn-based full-loot PVP & economy game where players can join together and compete to control territory. Each player will claim land for thier personal linage and master thier crafts to contrbute to the economy of the world.
+Saturn's Gift will be a hardcore medieval top-down turn-based full-loot PVP & economy game where players can join together and compete to control territory. Each player will claim land for their personal linage and master their crafts to contribute to the economy of the world.
 
 ## Discord:
 https://discord.gg/HN2r7wA
 
 ## PVP
 
-PVP is a core pillar to Saturns Gift. The systems of the game should reinforce the purpose of PVP such as location unique resources and reward players for partipating in combat through loot & renown. Kingdoms should fight for control of the tiles.
+PVP is a core pillar to Saturn's Gift. The systems of the game should reinforce the purpose of PVP such as location unique resources and reward players for participating in combat through loot & renown. Kingdoms should fight for control of the tiles.
 
 ## PVE
 
-PVE is another pillar to Saturns Gift. Items will naturally lose durabilty as you partipate in PVP and also be dropped when killed for people to steal. Every item in the game will be crafted and require resources to create or cook. Animals need to be tended to and crops need to be harvested. There will lots to do! Each character has a skill tree that can be leveled similiar to Runescape where you can max all of the professions in the game. There will be taming in the game as well to tame wild cows, horses, goats and chicken.
+PVE is another pillar to Saturn's Gift. Items will naturally lose durability as you participate in PVP and also be dropped when killed for people to steal. Every item in the game will be crafted and require resources to create or cook. Animals need to be tended to and crops need to be harvested. There will lots to do! Each character has a skill tree that can be leveled similar to Runescape where you can max all of the professions in the game. There will be taming in the game as well to tame wild cows, horses, goats and chicken.
 
 ## Combat
 
-Since Saturns Gift will be turn-based, combat will depend on character stats, weapon countering, item usage, positioning and a bit of RNG. Combat will be a big game of chess. An example is a calvery will have an advantage over a sword & shield player but a spearman will have advantage over a calvery. To win a siege against another kingdom you will need to bring a diverse set of characters. Guild officers should have special abilities such as pinging the world and telling thier guild mates where to go as if they were playing an RTS.
+Since Saturns Gift will be turn-based, combat will depend on character stats, weapon countering, item usage, positioning and a bit of RNG. Combat will be a big game of chess. An example is a cavalry will have an advantage over a sword & shield player but a spearman will have advantage over a cavalry. To win a siege against another kingdom you will need to bring a diverse set of characters. Guild officers should have special abilities such as pinging the world and telling their guild mates where to go as if they were playing an RTS.
 
 ## Linage
 
@@ -23,15 +23,15 @@ Each player will be able to have three characters that they can control for ever
 
 ## Land Claims
 
-There are two types of land claims, guild claim and personal claims. A guild claim has three rings of which are all seperated by castle walls. The inner ring is for the officers and guild leadership and is where the most valuable loot will be stored for the kingdom. The middle ring is where the high valuable players to the kingdom will be granted claim access and the outer ring is the public land where any player can claim on and join the guild. Personal claims can be claimed on guild land or in the wild. Claiming a personal claim in the wild offers no security of castle walls.
+There are two types of land claims, guild claim and personal claims. A guild claim has three rings of which are all separated by castle walls. The inner ring is for the officers and guild leadership and is where the most valuable loot will be stored for the kingdom. The middle ring is where the high valuable players to the kingdom will be granted claim access and the outer ring is the public land where any player can claim on and join the guild. Personal claims can be claimed on guild land or in the wild. Claiming a personal claim in the wild offers no security of castle walls.
 
 ## Character NPCs
 
-The primary resource of the game is players due to the players becoming NPCs when player are offline. The NPCs can do specific tasks that will be determined in the future. If a player goes inactive, the NPC dissapears and the claim is released. The more active the account is, the more advanced actions the NPC can do which makes active players a desired resource.
+The primary resource of the game is players due to the players becoming NPCs when player are offline. The NPCs can do specific tasks that will be determined in the future. If a player goes inactive, the NPC disappears and the claim is released. The more active the account is, the more advanced actions the NPC can do which makes active players a desired resource.
 
 ## Feel
 
-The game should feel like playing a persistent game of Civilization meets Rimworld meets Life is Fuedal. 
+The game should feel like playing a persistent game of Civilization meets Rimworld meets Life is Fuedal.
 
 ## Art Style
 
